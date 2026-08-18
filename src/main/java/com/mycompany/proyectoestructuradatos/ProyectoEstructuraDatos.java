@@ -5,6 +5,7 @@
 package com.mycompany.proyectoestructuradatos;
 
 /**
+ *
  * @author Soporte
  */
 public class ProyectoEstructuraDatos {
